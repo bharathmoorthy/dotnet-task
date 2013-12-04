@@ -1,3 +1,4 @@
+//read each word and count the number of times the word is appearing
 using System;
 using System.Collections.Generic;
 using System.Linq;
